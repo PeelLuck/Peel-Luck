@@ -142,7 +142,7 @@
   .products {
     padding: 4rem 2rem;
     text-align: center;
-    background-color: rgb(24, 40, 29);
+    background-color: rgb(21, 54, 25);
   }
   
   .products h2 {
@@ -238,7 +238,7 @@
   }
 
   .order h2 {
-    color: rgb(216, 207, 175);
+    color: rgb(246, 247, 235);
     text-align: center;
   }
   
@@ -257,6 +257,7 @@
     margin-bottom: 1rem;
     border: none;
     border-radius: 5px;
+    color: rgb(246, 247, 235);
   }
   
   /* Responsive */
